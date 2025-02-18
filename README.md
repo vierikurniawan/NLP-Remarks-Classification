@@ -20,7 +20,7 @@ BFI Finance agents often fill out visit report forms and write remarks after con
 - 🗂 Dataset: Collected visit remarks from BFI agents.
 - 🏗 Approach: Text preprocessing, feature extraction, and machine learning model training.
 - 🧠 Model: Support Vector Machine (SVM), Multinomial Naïve Bayes, Random Forest Classifier.
-- 📈 Evaluation: Accuracy.
+- 🎯 Evaluation Metric: Accuracy.
 
 ## 🛠 Tech Stack
 - Programming Language: Python
