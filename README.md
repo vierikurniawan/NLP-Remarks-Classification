@@ -4,9 +4,10 @@ This project focuses on classifying visit locations using Natural Language Proce
 - Customer's House
 - Customer's Office
 - Customer's Business Location
-- Family House
+- Other Family House
 - Other Rent House
-- Unknown (Unclassified)
+- Others
+- Unknown
 
 ## 💡 Why This Project?
 BFI Finance agents often fill out visit report forms and write remarks after conducting customer visits. These remarks can provide detailed information regarding the agent's visit, including whether the customer was found at the registered address or if alternative locations were identified. Some agents may discover alternative addresses that were not originally provided by BFI. When visiting these alternative locations, they may find the customer at a different place rather than the registered home address. These remarks may provide valuable insights that need to be accurately classified to enhance visit success rates and improve customer tracking efficiency. Our solution:
